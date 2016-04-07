@@ -1,0 +1,21 @@
+@import './node_modules/skeleton-scss/scss/skeleton.scss';
+@import './node_modules/leaflet/dist/leaflet.css';
+
+body {
+  background: pink;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+.health {
+  padding: 1em;
+  background: black;
+}
+
+#gameroot {
+  height: 100%;
+  width: 100%;
+}
